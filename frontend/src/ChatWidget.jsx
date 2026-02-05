@@ -157,7 +157,7 @@ export default function ChatWidget() {
         <>
           {/* Mobile: Full Screen Overlay */}
           {/* Desktop: Floating Window */}
-          <div className="fixed inset-0 sm:inset-auto sm:bottom-20 sm:right-4 md:right-6 sm:w-96 bg-white shadow-2xl sm:rounded-2xl border border-gray-100 overflow-hidden z-50 flex flex-col">
+          <div className="fixed inset-0 sm:inset-auto sm:bottom-20 sm:right-4 md:right-6 sm:w-96 sm:max-h-[600px] bg-white shadow-2xl sm:rounded-2xl border border-gray-100 overflow-hidden z-50 flex flex-col">
             {/* Header */}
             <div className="bg-gradient-to-r from-blue-600 to-indigo-600 text-white p-3 sm:p-4 flex justify-between items-center flex-shrink-0">
               <div className="flex items-center gap-2 sm:gap-3">
@@ -176,8 +176,9 @@ export default function ChatWidget() {
               </div>
               <button
                 onClick={() => setOpen(false)}
-                className="text-white opacity-80 hover:opacity-100 text-xl sm:text-2xl px-2 active:scale-90 transition"
+                className="text-white opacity-80 hover:opacity-100 text-xl sm:text-2xl p-2 active:scale-90 transition flex items-center justify-center min-w-[40px] min-h-[40px]"
                 aria-label="Close chat"
+                type="button"
               >
                 ✕
               </button>
@@ -218,11 +219,7 @@ export default function ChatWidget() {
             {/* Messages - Flexible height */}
             <div
               ref={chatRef}
-              className="flex-1 p-3 sm:p-4 overflow-y-auto bg-gray-50 space-y-3 sm:space-y-4"
-              style={{ 
-                maxHeight: 'calc(100vh - 240px)', // Mobile: account for header + input
-                minHeight: '300px' // Minimum height
-              }}
+              className="flex-1 p-3 sm:p-4 overflow-y-auto bg-gray-50 space-y-3 sm:space-y-4 sm:h-[380px]"
             >
               {messages.map((m, i) => (
                 <div key={i} className="flex flex-col">
