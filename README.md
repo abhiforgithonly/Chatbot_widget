@@ -50,7 +50,7 @@ The SmartAssist chatbot follows a client-server architecture with OpenRouter AI 
 └─────────────────┘                                └─────────────────┘                  ┌───────────────┐
         │                                                   │                            │  OpenRouter   │
         │                                                   │                            │   AI Models   │
-        ▼                                                   ▼                            │ (GPT)  │
+        ▼                                                   ▼                            │ (GPT)  
 ┌─────────────────┐                                ┌─────────────────┐                  └───────────────┘
 │  Browser State  │                                │  Chat Logic &   │
 │  - Messages     │                                │  AI Integration │
