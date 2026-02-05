@@ -1,0 +1,566 @@
+{
+  "conversations": [
+    {
+      "conversation_id": "conv_1770225557_1455",
+      "timestamp": "2026-02-04T22:49:17.209772",
+      "user_info": {
+        "name": null,
+        "email": null,
+        "query_type": null
+      },
+      "conversation_stage": "service_first",
+      "message_count": 2,
+      "last_user_message": "Our Services",
+      "last_ai_response": "Certainly! Here are the services we offer:\n\n1. **Website Design & Development** (Starting at $2,999)\n   - Custom responsive design\n   - Mobile-first approach\n   - SEO optimization\n   - 4-6 week delivery\n\n2. **Digital Marketing & SEO** (Starting at $499/month)\n   - Social media management\n   - Content marketing\n   - Google Ads campaigns\n   - Monthly analytics reports\n\n3. **E-commerce Solutions** (Custom pricing)\n   - Shopify/WooCommerce setup\n   - Payment gateway integration\n   - Inventory management\n   - Order tracking systems\n\n4. **Mobile App Development** (Starting at $4,999)\n   - iOS and Android apps\n   - Native or React Native\n   - App store submission\n   - Post-launch support\n\n5. **Content Creation & Management** (Starting at $299/month)\n   - Blog writing\n   - Social media posts\n   - Email newsletters\n   - Graphic design\n\nHow can I assist you further? 😊 What's your name?",
+      "full_history": [
+        {
+          "role": "bot",
+          "text": "Hi! 👋 I'm SmartAssist, your digital services assistant. I can help you learn about our services, pricing, and support options.\n\nWhat's your name?",
+          "timestamp": "2026-02-04T17:19:05.674Z"
+        },
+        {
+          "role": "user",
+          "text": "Our Services",
+          "timestamp": "2026-02-04T22:49:17.210808"
+        },
+        {
+          "role": "bot",
+          "text": "Certainly! Here are the services we offer:\n\n1. **Website Design & Development** (Starting at $2,999)\n   - Custom responsive design\n   - Mobile-first approach\n   - SEO optimization\n   - 4-6 week delivery\n\n2. **Digital Marketing & SEO** (Starting at $499/month)\n   - Social media management\n   - Content marketing\n   - Google Ads campaigns\n   - Monthly analytics reports\n\n3. **E-commerce Solutions** (Custom pricing)\n   - Shopify/WooCommerce setup\n   - Payment gateway integration\n   - Inventory management\n   - Order tracking systems\n\n4. **Mobile App Development** (Starting at $4,999)\n   - iOS and Android apps\n   - Native or React Native\n   - App store submission\n   - Post-launch support\n\n5. **Content Creation & Management** (Starting at $299/month)\n   - Blog writing\n   - Social media posts\n   - Email newsletters\n   - Graphic design\n\nHow can I assist you further? 😊 What's your name?",
+          "timestamp": "2026-02-04T22:49:17.210808"
+        }
+      ],
+      "metadata": {
+        "response_time_seconds": 2.88,
+        "model_used": "openai/gpt-3.5-turbo",
+        "date": "2026-02-04",
+        "time": "22:49:17"
+      }
+    },
+    {
+      "conversation_id": "conv_1770225575_929",
+      "timestamp": "2026-02-04T22:49:35.142870",
+      "user_info": {
+        "name": "Our Services",
+        "email": null,
+        "query_type": null
+      },
+      "conversation_stage": "collect_email",
+      "message_count": 4,
+      "last_user_message": "Anything else you can provide?",
+      "last_ai_response": "Absolutely! In addition to our core services, we also offer:\n\n- **UI/UX Design**: Crafting user-friendly interfaces for websites and apps.\n- **Logo & Branding**: Creating unique brand identities and logos.\n- **Website Maintenance**: Keeping your website updated and secure.\n- **PPC Advertising**: Managing Pay-Per-Click campaigns for targeted marketing.\n- **Consulting Services**: Providing expert advice on digital strategies.\n\nIs there a specific service you're interested in learning more about? And may I have your email address to send you detailed information or follow up with you?",
+      "full_history": [
+        {
+          "role": "bot",
+          "text": "Hi! 👋 I'm SmartAssist, your digital services assistant. I can help you learn about our services, pricing, and support options.\n\nWhat's your name?",
+          "timestamp": "2026-02-04T17:19:05.674Z"
+        },
+        {
+          "role": "user",
+          "text": "Our Services",
+          "timestamp": "2026-02-04T17:19:14.269Z"
+        },
+        {
+          "role": "bot",
+          "text": "Certainly! Here are the services we offer:\n\n1. **Website Design & Development** (Starting at $2,999)\n   - Custom responsive design\n   - Mobile-first approach\n   - SEO optimization\n   - 4-6 week delivery\n\n2. **Digital Marketing & SEO** (Starting at $499/month)\n   - Social media management\n   - Content marketing\n   - Google Ads campaigns\n   - Monthly analytics reports\n\n3. **E-commerce Solutions** (Custom pricing)\n   - Shopify/WooCommerce setup\n   - Payment gateway integration\n   - Inventory management\n   - Order tracking systems\n\n4. **Mobile App Development** (Starting at $4,999)\n   - iOS and Android apps\n   - Native or React Native\n   - App store submission\n   - Post-launch support\n\n5. **Content Creation & Management** (Starting at $299/month)\n   - Blog writing\n   - Social media posts\n   - Email newsletters\n   - Graphic design\n\nHow can I assist you further? 😊 What's your name?",
+          "timestamp": "2026-02-04T17:19:17.231Z"
+        },
+        {
+          "role": "user",
+          "text": "Anything else you can provide?",
+          "timestamp": "2026-02-04T22:49:35.142870"
+        },
+        {
+          "role": "bot",
+          "text": "Absolutely! In addition to our core services, we also offer:\n\n- **UI/UX Design**: Crafting user-friendly interfaces for websites and apps.\n- **Logo & Branding**: Creating unique brand identities and logos.\n- **Website Maintenance**: Keeping your website updated and secure.\n- **PPC Advertising**: Managing Pay-Per-Click campaigns for targeted marketing.\n- **Consulting Services**: Providing expert advice on digital strategies.\n\nIs there a specific service you're interested in learning more about? And may I have your email address to send you detailed information or follow up with you?",
+          "timestamp": "2026-02-04T22:49:35.142870"
+        }
+      ],
+      "metadata": {
+        "response_time_seconds": 2.03,
+        "model_used": "openai/gpt-3.5-turbo",
+        "date": "2026-02-04",
+        "time": "22:49:35"
+      }
+    },
+    {
+      "conversation_id": "conv_1770225767_7823",
+      "timestamp": "2026-02-04T22:52:47.633918",
+      "user_info": {
+        "name": null,
+        "email": null,
+        "query_type": null
+      },
+      "conversation_stage": "greeting",
+      "message_count": 2,
+      "last_user_message": "My name is Abhijeet",
+      "last_ai_response": "Nice to meet you, Abhijeet! How can I assist you today?",
+      "full_history": [
+        {
+          "role": "bot",
+          "text": "Hi! 👋 I'm SmartAssist, your digital services assistant. I can help you learn about our services, pricing, and support options.\n\nWhat's your name?",
+          "timestamp": "2026-02-04T17:22:32.863Z"
+        },
+        {
+          "role": "user",
+          "text": "My name is Abhijeet",
+          "timestamp": "2026-02-04T22:52:47.633918"
+        },
+        {
+          "role": "bot",
+          "text": "Nice to meet you, Abhijeet! How can I assist you today?",
+          "timestamp": "2026-02-04T22:52:47.633918"
+        }
+      ],
+      "metadata": {
+        "response_time_seconds": 1.28,
+        "model_used": "openai/gpt-3.5-turbo",
+        "date": "2026-02-04",
+        "time": "22:52:47"
+      }
+    },
+    {
+      "conversation_id": "conv_1770225808_4912",
+      "timestamp": "2026-02-04T22:53:28.742759",
+      "user_info": {
+        "name": "Abhijeet",
+        "email": null,
+        "query_type": null
+      },
+      "conversation_stage": "collect_email",
+      "message_count": 4,
+      "last_user_message": "I need some help with related to app",
+      "last_ai_response": "Sure thing, Abhijeet! I'd be happy to help you with your app-related questions. \n\nBefore we dive in, could you please provide me with your email address? This way, I can send you detailed information or follow up with any additional assistance you may need.",
+      "full_history": [
+        {
+          "role": "bot",
+          "text": "Hi! 👋 I'm SmartAssist, your digital services assistant. I can help you learn about our services, pricing, and support options.\n\nWhat's your name?",
+          "timestamp": "2026-02-04T17:22:32.863Z"
+        },
+        {
+          "role": "user",
+          "text": "My name is Abhijeet",
+          "timestamp": "2026-02-04T17:22:46.301Z"
+        },
+        {
+          "role": "bot",
+          "text": "Nice to meet you, Abhijeet! How can I assist you today?",
+          "timestamp": "2026-02-04T17:22:47.656Z"
+        },
+        {
+          "role": "user",
+          "text": "I need some help with related to app",
+          "timestamp": "2026-02-04T22:53:28.742759"
+        },
+        {
+          "role": "bot",
+          "text": "Sure thing, Abhijeet! I'd be happy to help you with your app-related questions. \n\nBefore we dive in, could you please provide me with your email address? This way, I can send you detailed information or follow up with any additional assistance you may need.",
+          "timestamp": "2026-02-04T22:53:28.742759"
+        }
+      ],
+      "metadata": {
+        "response_time_seconds": 1.57,
+        "model_used": "openai/gpt-3.5-turbo",
+        "date": "2026-02-04",
+        "time": "22:53:28"
+      }
+    },
+    {
+      "conversation_id": "conv_1770225824_6585",
+      "timestamp": "2026-02-04T22:53:44.660128",
+      "user_info": {
+        "name": "Abhijeet",
+        "email": null,
+        "query_type": null
+      },
+      "conversation_stage": "collect_email",
+      "message_count": 6,
+      "last_user_message": "abhiforgithubonly@gmail.com",
+      "last_ai_response": "Thank you, Abhijeet! I appreciate you sharing your email address. Now, how can I assist you with your app-related queries today?",
+      "full_history": [
+        {
+          "role": "bot",
+          "text": "Hi! 👋 I'm SmartAssist, your digital services assistant. I can help you learn about our services, pricing, and support options.\n\nWhat's your name?",
+          "timestamp": "2026-02-04T17:22:32.863Z"
+        },
+        {
+          "role": "user",
+          "text": "My name is Abhijeet",
+          "timestamp": "2026-02-04T17:22:46.301Z"
+        },
+        {
+          "role": "bot",
+          "text": "Nice to meet you, Abhijeet! How can I assist you today?",
+          "timestamp": "2026-02-04T17:22:47.656Z"
+        },
+        {
+          "role": "user",
+          "text": "I need some help with related to app",
+          "timestamp": "2026-02-04T17:23:27.104Z"
+        },
+        {
+          "role": "bot",
+          "text": "Sure thing, Abhijeet! I'd be happy to help you with your app-related questions. \n\nBefore we dive in, could you please provide me with your email address? This way, I can send you detailed information or follow up with any additional assistance you may need.",
+          "timestamp": "2026-02-04T17:23:28.759Z"
+        },
+        {
+          "role": "user",
+          "text": "abhiforgithubonly@gmail.com",
+          "timestamp": "2026-02-04T22:53:44.660128"
+        },
+        {
+          "role": "bot",
+          "text": "Thank you, Abhijeet! I appreciate you sharing your email address. Now, how can I assist you with your app-related queries today?",
+          "timestamp": "2026-02-04T22:53:44.660128"
+        }
+      ],
+      "metadata": {
+        "response_time_seconds": 1.55,
+        "model_used": "openai/gpt-3.5-turbo",
+        "date": "2026-02-04",
+        "time": "22:53:44"
+      }
+    },
+    {
+      "conversation_id": "conv_1770225841_3516",
+      "timestamp": "2026-02-04T22:54:01.400845",
+      "user_info": {
+        "name": "Abhijeet",
+        "email": "abhiforgithubonly@gmail.com",
+        "query_type": null
+      },
+      "conversation_stage": "assistance",
+      "message_count": 8,
+      "last_user_message": "Get Support",
+      "last_ai_response": "Of course, Abhijeet! Here is some information about our support services:\n\n🕒 **Business Hours:** Monday-Friday, 9 AM - 6 PM EST\n📧 **Email:** support@smartassist.com\n📞 **Phone:** +1 (555) 123-4567\n⏳ **Response Time:** Within 24 hours\n\nFeel free to reach out to us via email or phone during our business hours for any assistance you may need. How else can I help you today?",
+      "full_history": [
+        {
+          "role": "bot",
+          "text": "Hi! 👋 I'm SmartAssist, your digital services assistant. I can help you learn about our services, pricing, and support options.\n\nWhat's your name?",
+          "timestamp": "2026-02-04T17:22:32.863Z"
+        },
+        {
+          "role": "user",
+          "text": "My name is Abhijeet",
+          "timestamp": "2026-02-04T17:22:46.301Z"
+        },
+        {
+          "role": "bot",
+          "text": "Nice to meet you, Abhijeet! How can I assist you today?",
+          "timestamp": "2026-02-04T17:22:47.656Z"
+        },
+        {
+          "role": "user",
+          "text": "I need some help with related to app",
+          "timestamp": "2026-02-04T17:23:27.104Z"
+        },
+        {
+          "role": "bot",
+          "text": "Sure thing, Abhijeet! I'd be happy to help you with your app-related questions. \n\nBefore we dive in, could you please provide me with your email address? This way, I can send you detailed information or follow up with any additional assistance you may need.",
+          "timestamp": "2026-02-04T17:23:28.759Z"
+        },
+        {
+          "role": "user",
+          "text": "abhiforgithubonly@gmail.com",
+          "timestamp": "2026-02-04T17:23:43.093Z"
+        },
+        {
+          "role": "bot",
+          "text": "Thank you, Abhijeet! I appreciate you sharing your email address. Now, how can I assist you with your app-related queries today?",
+          "timestamp": "2026-02-04T17:23:44.679Z"
+        },
+        {
+          "role": "user",
+          "text": "Get Support",
+          "timestamp": "2026-02-04T22:54:01.400845"
+        },
+        {
+          "role": "bot",
+          "text": "Of course, Abhijeet! Here is some information about our support services:\n\n🕒 **Business Hours:** Monday-Friday, 9 AM - 6 PM EST\n📧 **Email:** support@smartassist.com\n📞 **Phone:** +1 (555) 123-4567\n⏳ **Response Time:** Within 24 hours\n\nFeel free to reach out to us via email or phone during our business hours for any assistance you may need. How else can I help you today?",
+          "timestamp": "2026-02-04T22:54:01.400845"
+        }
+      ],
+      "metadata": {
+        "response_time_seconds": 2.59,
+        "model_used": "openai/gpt-3.5-turbo",
+        "date": "2026-02-04",
+        "time": "22:54:01"
+      }
+    },
+    {
+      "conversation_id": "conv_1770225880_7808",
+      "timestamp": "2026-02-04T22:54:40.106394",
+      "user_info": {
+        "name": "Abhijeet",
+        "email": "abhiforgithubonly@gmail.com",
+        "query_type": null
+      },
+      "conversation_stage": "assistance",
+      "message_count": 10,
+      "last_user_message": "That's it for now",
+      "last_ai_response": "Great! If you have any more questions in the future or need assistance, don't hesitate to reach out. Have a wonderful day, Abhijeet!",
+      "full_history": [
+        {
+          "role": "bot",
+          "text": "Hi! 👋 I'm SmartAssist, your digital services assistant. I can help you learn about our services, pricing, and support options.\n\nWhat's your name?",
+          "timestamp": "2026-02-04T17:22:32.863Z"
+        },
+        {
+          "role": "user",
+          "text": "My name is Abhijeet",
+          "timestamp": "2026-02-04T17:22:46.301Z"
+        },
+        {
+          "role": "bot",
+          "text": "Nice to meet you, Abhijeet! How can I assist you today?",
+          "timestamp": "2026-02-04T17:22:47.656Z"
+        },
+        {
+          "role": "user",
+          "text": "I need some help with related to app",
+          "timestamp": "2026-02-04T17:23:27.104Z"
+        },
+        {
+          "role": "bot",
+          "text": "Sure thing, Abhijeet! I'd be happy to help you with your app-related questions. \n\nBefore we dive in, could you please provide me with your email address? This way, I can send you detailed information or follow up with any additional assistance you may need.",
+          "timestamp": "2026-02-04T17:23:28.759Z"
+        },
+        {
+          "role": "user",
+          "text": "abhiforgithubonly@gmail.com",
+          "timestamp": "2026-02-04T17:23:43.093Z"
+        },
+        {
+          "role": "bot",
+          "text": "Thank you, Abhijeet! I appreciate you sharing your email address. Now, how can I assist you with your app-related queries today?",
+          "timestamp": "2026-02-04T17:23:44.679Z"
+        },
+        {
+          "role": "user",
+          "text": "Get Support",
+          "timestamp": "2026-02-04T17:23:58.780Z"
+        },
+        {
+          "role": "bot",
+          "text": "Of course, Abhijeet! Here is some information about our support services:\n\n🕒 **Business Hours:** Monday-Friday, 9 AM - 6 PM EST\n📧 **Email:** support@smartassist.com\n📞 **Phone:** +1 (555) 123-4567\n⏳ **Response Time:** Within 24 hours\n\nFeel free to reach out to us via email or phone during our business hours for any assistance you may need. How else can I help you today?",
+          "timestamp": "2026-02-04T17:24:01.422Z"
+        },
+        {
+          "role": "user",
+          "text": "That's it for now",
+          "timestamp": "2026-02-04T22:54:40.106394"
+        },
+        {
+          "role": "bot",
+          "text": "Great! If you have any more questions in the future or need assistance, don't hesitate to reach out. Have a wonderful day, Abhijeet!",
+          "timestamp": "2026-02-04T22:54:40.106394"
+        }
+      ],
+      "metadata": {
+        "response_time_seconds": 1.98,
+        "model_used": "openai/gpt-3.5-turbo",
+        "date": "2026-02-04",
+        "time": "22:54:40"
+      }
+    },
+    {
+      "conversation_id": "conv_1770226919_6769",
+      "timestamp": "2026-02-04T23:11:59.099386",
+      "user_info": {
+        "name": null,
+        "email": null,
+        "query_type": null
+      },
+      "conversation_stage": "greeting",
+      "message_count": 2,
+      "last_user_message": "I'm Abhijeet Suryavanshi",
+      "last_ai_response": "Nice to meet you, Abhijeet Suryavanshi! How can I assist you today?",
+      "full_history": [
+        {
+          "role": "bot",
+          "text": "Hi! 👋 I'm SmartAssist, your digital services assistant. I can help you learn about our services, pricing, and support options.\n\nWhat's your name?",
+          "timestamp": "2026-02-04T17:41:44.279Z"
+        },
+        {
+          "role": "user",
+          "text": "I'm Abhijeet Suryavanshi",
+          "timestamp": "2026-02-04T23:11:59.099386"
+        },
+        {
+          "role": "bot",
+          "text": "Nice to meet you, Abhijeet Suryavanshi! How can I assist you today?",
+          "timestamp": "2026-02-04T23:11:59.099386"
+        }
+      ],
+      "metadata": {
+        "response_time_seconds": 1.39,
+        "model_used": "openai/gpt-3.5-turbo",
+        "date": "2026-02-04",
+        "time": "23:11:59"
+      }
+    },
+    {
+      "conversation_id": "conv_1770226933_1646",
+      "timestamp": "2026-02-04T23:12:13.549664",
+      "user_info": {
+        "name": "Abhijeet Suryavanshi",
+        "email": null,
+        "query_type": null
+      },
+      "conversation_stage": "service_first",
+      "message_count": 4,
+      "last_user_message": "I need Support",
+      "last_ai_response": "Of course, Abhijeet Suryavanshi! I'm here to help. \n\nFor support, our business hours are Monday to Friday from 9 AM to 6 PM EST. You can reach us via email at support@smartassist.com or give us a call at +1 (555) 123-4567. We aim to respond to all queries within 24 hours.\n\nIs there anything specific you need assistance with today?",
+      "full_history": [
+        {
+          "role": "bot",
+          "text": "Hi! 👋 I'm SmartAssist, your digital services assistant. I can help you learn about our services, pricing, and support options.\n\nWhat's your name?",
+          "timestamp": "2026-02-04T17:41:44.279Z"
+        },
+        {
+          "role": "user",
+          "text": "I'm Abhijeet Suryavanshi",
+          "timestamp": "2026-02-04T17:41:57.613Z"
+        },
+        {
+          "role": "bot",
+          "text": "Nice to meet you, Abhijeet Suryavanshi! How can I assist you today?",
+          "timestamp": "2026-02-04T17:41:59.121Z"
+        },
+        {
+          "role": "user",
+          "text": "I need Support",
+          "timestamp": "2026-02-04T23:12:13.549664"
+        },
+        {
+          "role": "bot",
+          "text": "Of course, Abhijeet Suryavanshi! I'm here to help. \n\nFor support, our business hours are Monday to Friday from 9 AM to 6 PM EST. You can reach us via email at support@smartassist.com or give us a call at +1 (555) 123-4567. We aim to respond to all queries within 24 hours.\n\nIs there anything specific you need assistance with today?",
+          "timestamp": "2026-02-04T23:12:13.549664"
+        }
+      ],
+      "metadata": {
+        "response_time_seconds": 1.78,
+        "model_used": "openai/gpt-3.5-turbo",
+        "date": "2026-02-04",
+        "time": "23:12:13"
+      }
+    },
+    {
+      "conversation_id": "conv_1770227249_1215",
+      "timestamp": "2026-02-04T23:17:29.569465",
+      "user_info": {
+        "name": null,
+        "email": null,
+        "query_type": null
+      },
+      "conversation_stage": "greeting",
+      "message_count": 2,
+      "last_user_message": "Im Abhijeet Suryavanshi",
+      "last_ai_response": "Nice to meet you, Abhijeet Suryavanshi! How can I assist you today?",
+      "full_history": [
+        {
+          "role": "bot",
+          "text": "Hi! 👋 I'm SmartAssist, your digital services assistant. I can help you learn about our services, pricing, and support options.\n\nWhat's your name?",
+          "timestamp": "2026-02-04T17:46:33.026Z"
+        },
+        {
+          "role": "user",
+          "text": "Im Abhijeet Suryavanshi",
+          "timestamp": "2026-02-04T23:17:29.569465"
+        },
+        {
+          "role": "bot",
+          "text": "Nice to meet you, Abhijeet Suryavanshi! How can I assist you today?",
+          "timestamp": "2026-02-04T23:17:29.569465"
+        }
+      ],
+      "metadata": {
+        "response_time_seconds": 1.28,
+        "model_used": "openai/gpt-3.5-turbo",
+        "date": "2026-02-04",
+        "time": "23:17:29"
+      }
+    },
+    {
+      "conversation_id": "conv_1770227264_8500",
+      "timestamp": "2026-02-04T23:17:44.650581",
+      "user_info": {
+        "name": null,
+        "email": null,
+        "query_type": null
+      },
+      "conversation_stage": "service_first",
+      "message_count": 4,
+      "last_user_message": "I want to Contact",
+      "last_ai_response": "Of course! Here is our contact information:\n- Email: support@smartassist.com\n- Phone: +1 (555) 123-4567\n- Address: 123 Tech Street, San Francisco, CA 94103\n- Business Hours: Monday-Friday, 9 AM - 6 PM EST\n\nIs there anything specific you would like assistance with, Abhijeet Suryavanshi?",
+      "full_history": [
+        {
+          "role": "bot",
+          "text": "Hi! 👋 I'm SmartAssist, your digital services assistant. I can help you learn about our services, pricing, and support options.\n\nWhat's your name?",
+          "timestamp": "2026-02-04T17:46:33.026Z"
+        },
+        {
+          "role": "user",
+          "text": "Im Abhijeet Suryavanshi",
+          "timestamp": "2026-02-04T17:47:28.201Z"
+        },
+        {
+          "role": "bot",
+          "text": "Nice to meet you, Abhijeet Suryavanshi! How can I assist you today?",
+          "timestamp": "2026-02-04T17:47:29.612Z"
+        },
+        {
+          "role": "user",
+          "text": "I want to Contact",
+          "timestamp": "2026-02-04T23:17:44.650581"
+        },
+        {
+          "role": "bot",
+          "text": "Of course! Here is our contact information:\n- Email: support@smartassist.com\n- Phone: +1 (555) 123-4567\n- Address: 123 Tech Street, San Francisco, CA 94103\n- Business Hours: Monday-Friday, 9 AM - 6 PM EST\n\nIs there anything specific you would like assistance with, Abhijeet Suryavanshi?",
+          "timestamp": "2026-02-04T23:17:44.650581"
+        }
+      ],
+      "metadata": {
+        "response_time_seconds": 1.53,
+        "model_used": "openai/gpt-3.5-turbo",
+        "date": "2026-02-04",
+        "time": "23:17:44"
+      }
+    },
+    {
+      "conversation_id": "conv_1770227407_1263",
+      "timestamp": "2026-02-04T23:20:07.248326",
+      "user_info": {
+        "name": null,
+        "email": null,
+        "query_type": null
+      },
+      "conversation_stage": "greeting",
+      "message_count": 2,
+      "last_user_message": "I'm Abhijeet",
+      "last_ai_response": "Nice to meet you, Abhijeet! How can I assist you today?",
+      "full_history": [
+        {
+          "role": "bot",
+          "text": "Hi! 👋 I'm SmartAssist, your digital services assistant. I can help you learn about our services, pricing, and support options.\n\nWhat's your name?",
+          "timestamp": "2026-02-04T17:49:41.516Z"
+        },
+        {
+          "role": "user",
+          "text": "I'm Abhijeet",
+          "timestamp": "2026-02-04T23:20:07.248326"
+        },
+        {
+          "role": "bot",
+          "text": "Nice to meet you, Abhijeet! How can I assist you today?",
+          "timestamp": "2026-02-04T23:20:07.248326"
+        }
+      ],
+      "metadata": {
+        "response_time_seconds": 1.25,
+        "model_used": "openai/gpt-3.5-turbo",
+        "date": "2026-02-04",
+        "time": "23:20:07"
+      }
+    }
+  ]
+}
