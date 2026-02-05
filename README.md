@@ -105,7 +105,7 @@ The SmartAssist chatbot follows a client-server architecture with OpenRouter AI 
 **Request Format**:
 ```json
 {
-  "model": "anthropic/claude-3-sonnet",
+  "model": "openai/gpt-3.5",
   "messages": [
     {"role": "system", "content": "You are a helpful assistant..."},
     {"role": "user", "content": "Hello!"},
